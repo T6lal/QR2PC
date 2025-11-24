@@ -59,7 +59,7 @@ Waiting for links from iPhone...
 | ---------------- | ---------------------------------- |
 | `link_opener.py` | Main script (shown above)          |
 | `README.md`      | This documentation                 |
-| `LICENSE`        | MIT by default—feel free to change |
+| `LICENSE`        | MIT by default-feel free to change |
 
 ---
 
@@ -84,9 +84,3 @@ Waiting for links from iPhone...
 * Add simple token-based auth header.
 * Auto-generate the iOS Shortcut via `.shortcut` file export.
 * Tray icon / installer for Windows users.
-
----
-
-#### License
-
-MIT – do anything, just leave attribution.
